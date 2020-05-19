@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogStyle" parent="@style/Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorAccent">#00ff07</item>
+    </style>
+
+    <string name="launch_dialog_title">Welcome</string>
+    <string name="launch_dialog_content">Thank you for installing my theme! \nThe overlays in this theme will allow you to hide the lockscreen statusbar icons, carrier, lock icon, bottom shortcuts and minimize the fingerprint icon.\n\nSupport development by donating to my paypal if you\'d like.</string>
+    <string name="welcome">Welcome</string>
+    <string name="link_playstore">https://github.com/alienator88</string>
+    <string name="link_support">https://github.com/alienator88</string>
+    <string name="link_changelog">https://github.com/alienator88</string>
+    <string name="link_paypal">https://paypal.me/alienator88</string>
+    <string name="launch_dialog_positive">Continue</string>
+    <string name="launch_dialog_neutral">Rate</string>
+    <string name="launch_dialog_negative">Support</string>
+    <string name="do_not_show_again">Never Show</string>
+    <string name="support">Support</string>
+    <string name="proceed">Continue</string>
+    <string name="avd">avd</string>
+    <string name="telegram">telegram</string>
+    <string name="cont">Continue</string>
+    <string name="donate">Donate</string>
+</resources>
