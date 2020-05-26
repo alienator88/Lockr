@@ -9,9 +9,9 @@
     <string name="launch_dialog_title">Welcome</string>
     <string name="launch_dialog_content">Thank you for installing my theme! \nThe overlays in this theme will allow you to hide the lockscreen statusbar icons, carrier, lock icon, bottom shortcuts, minimize the fingerprint icon, clock text and status text under date.\n\nSupport development by donating to my paypal if you\'d like.</string>
     <string name="welcome">Welcome</string>
-    <string name="link_playstore">https://github.com/alienator88</string>
-    <string name="link_support">https://github.com/alienator88</string>
-    <string name="link_changelog">https://github.com/alienator88</string>
+    <string name="link_playstore">https://github.com/alienator88/Lockr</string>
+    <string name="link_support">https://github.com/alienator88/Lockr/issues</string>
+    <string name="link_changelog">https://github.com/alienator88/Lockr</string>
     <string name="link_paypal">https://paypal.me/alienator88</string>
     <string name="launch_dialog_positive">Continue</string>
     <string name="launch_dialog_neutral">Rate</string>
