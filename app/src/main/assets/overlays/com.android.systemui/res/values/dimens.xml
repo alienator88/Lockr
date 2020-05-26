@@ -5,4 +5,6 @@
     <dimen name="trust_circle_inner_radius_exit">0.0dip</dimen>
     <dimen name="trust_circle_inner_radius_enter">0.0dip</dimen>
     <dimen name="trust_circle_thickness">0.0dip</dimen>
+    <dimen name="oneplus_widget_big_font_size">32.0dip</dimen> <!-- Clock on lockscreen -->
+    <dimen name="oneplus_widget_label_font_size">12.0dip</dimen> <!-- Charging text on lockscreen -->
 </resources>
