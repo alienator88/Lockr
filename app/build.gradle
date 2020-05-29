@@ -22,10 +22,10 @@ ext {
 android {
     signingConfigs {
         debug {
-            storeFile file('/Users/alin/Development/Android/android_keystore')
-            storePassword 'Trmagu88'
-            keyAlias 'key0'
-            keyPassword 'Trmagu88'
+            storeFile file('')
+            storePassword ''
+            keyAlias ''
+            keyPassword ''
         }
     }
     compileSdkVersion 28
